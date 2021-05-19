@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EasyNotesApplication<easy-notes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.easynotes.EasyNotesApplication",
+            "projectName": "easy-notes",
+            "args": ""
+        }
+    ]
+}
